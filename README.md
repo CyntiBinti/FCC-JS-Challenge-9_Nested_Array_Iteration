@@ -5,12 +5,15 @@ We have defined a function, filteredArray, which takes arr, a nested array, and 
 
 Modify the function, using a for loop, to return a filtered version of the passed array such that any array nested within arr containing elem has been removed
 
+
 function filteredArray(arr, elem) {
-  let newArr = [];
+ 
+ let newArr = [];
   
   // Only change code below this line
 
   // Only change code above this line
+  
   return newArr;
 }
 
